@@ -1,5 +1,5 @@
 # Character-recognition
-Using TensorFlow's ImageNet model to identify digits from an image.
+Using TensorFlow's ImageNet model to identify digits from an image.<br>
 The driver file is test.py
 Not required to run train.py which was used to generate training images.
 I standardized the training images to size 30x30 and centered their centre of masses and similary test images were pre processed the same way before classifying(predicting them)
